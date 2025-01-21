@@ -1,0 +1,5 @@
+# 이미지 파일을 public 폴더가 아닌 assets에 넣어서 최적화 적용
+assets에 넣으면 브라우저 메모리에 캐시해서 사용, 새로고침해도 다시 불러오지 않고 계속 사용
+npm run preivew 모드하면 개발자도구 src = 'date url 나옴'
+network - preserve log 체크하면 요청 확인 가능 ~ (memory cached) 0ms
+10만개 이상처럼 많아지면 public에 넣는게 나을수도

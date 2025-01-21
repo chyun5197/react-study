@@ -52,7 +52,7 @@ delete animal.color;
 // animal = 13; 새로운 초기화는 안됨
 console.log(animal);
 
-// 2. 메서드
+// 2. 메서드 (객체 타입, 주소값으로 저장됨)
 const human = {
     name: "멍멍",
     sayHello(){ // 객체 내에서는 앞에 'function' 안 써도 됨
