@@ -6,7 +6,7 @@
 
 [Counter]
 6. props&state 작성, UI css
-7. 라이프사이클, useEffect, 의존성 배열 deps.
+7. 라이프사이클, useEffect, 의존성 배열 deps
 
 [TodoList]
 8. UI css, CRUD, mockData
